@@ -1,11 +1,25 @@
 ChangeLog
 ============
 
+1.5.0
+------
+- androidx
+
+1.4.0
+-------
+- upgrade support library to 28
+- min api requirement is 14 now
+
+1.3.1
+-------
+- Fix crash on Android O
+
+
 1.3.0
 --------
 
 - Defects fixing
-- Change attribute "bottomSheetStyle" to "bs_bottomSheetStyle" for latest support library. 
+- Change attribute "bottomSheetStyle" to "bs_bottomSheetStyle" for latest support library.
 
 1.2.0
 --------
